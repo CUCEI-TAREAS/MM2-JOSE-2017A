@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.2.14)  14 FEB 2017 22:30
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.2.14)  14 FEB 2017 22:57
 entering extended mode
 **./primer_archivo_latex.tex
 (primer_archivo_latex.tex
@@ -437,20 +437,20 @@ LaTeX Info: Redefining \% on input line 6.
 )
 \openout1 = `primer_archivo_latex.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Info: Redefining \. on input line 12.
-LaTeX Info: Redefining \% on input line 12.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Info: Redefining \. on input line 16.
+LaTeX Info: Redefining \% on input line 16.
 
 ("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\pdftexcmds.sty"
 Package: pdftexcmds 2016/05/21 v0.22 Utility functions of pdfTeX for LuaTeX (HO
@@ -531,20 +531,14 @@ G,.JBIG2,.JB2,.eps]
 <../PRE/udg.png, id=1, 200.75pt x 273.02pt>
 File: ../PRE/udg.png Graphic file (type png)
  <use ../PRE/udg.png>
-Package pdftex.def Info: ../PRE/udg.png used on input line 15.
+Package pdftex.def Info: ../PRE/udg.png used on input line 19.
 (pdftex.def)             Requested size: 100.37474pt x 136.50966pt.
 
 <../PRE/profile.png, id=3, 224.84pt x 296.10625pt>
 File: ../PRE/profile.png Graphic file (type png)
  <use ../PRE/profile.png>
-Package pdftex.def Info: ../PRE/profile.png used on input line 20.
+Package pdftex.def Info: ../PRE/profile.png used on input line 24.
 (pdftex.def)             Requested size: 112.41972pt x 148.05275pt.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 39.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 39.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 39.
 
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -552,6 +546,12 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 47.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 47.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 47.
 [1
 
 {C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <../PRE/udg.png> <../PRE/p
@@ -579,15 +579,13 @@ Package Fancyhdr Warning: \headheight is too small (14.49998pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 63.
-[2 <./1.jpeg> <./1_pendulo.png>] <./2.jpeg, id=21, 722.7pt x 1284.8pt>
+[2 <./1.jpeg> <./1_pendulo.png>] <./2.jpeg, id=20, 722.7pt x 1284.8pt>
 File: ./2.jpeg Graphic file (type jpg)
 
 <use ./2.jpeg>
 Package pdftex.def Info: ./2.jpeg used on input line 65.
 (pdftex.def)             Requested size: 180.67455pt x 321.19922pt.
- <./2_tanques_acoplados.jpg, id=22, 180.675pt x 180.675pt>
+ <./2_tanques_acoplados.jpg, id=21, 180.675pt x 180.675pt>
 File: ./2_tanques_acoplados.jpg Graphic file (type jpg)
 
 <use ./2_tanques_acoplados.jpg>
@@ -601,17 +599,22 @@ Underfull \hbox (badness 10000) in paragraph at lines 67--79
 LaTeX Info: Redefining \. on input line 81.
 LaTeX Info: Redefining \% on input line 81.
 [3 <./2.jpeg> <./2_tanques_acoplados.jpg>]
-<./3.jpeg, id=26, 722.7pt x 1284.8pt>
+<./3.jpeg, id=25, 722.7pt x 1284.8pt>
 File: ./3.jpeg Graphic file (type jpg)
  <use ./3.jpeg>
 Package pdftex.def Info: ./3.jpeg used on input line 83.
 (pdftex.def)             Requested size: 180.67455pt x 321.19922pt.
 
-<./3_image.jpeg, id=27, 481.8pt x 361.35pt>
+<./3_image.jpeg, id=26, 481.8pt x 361.35pt>
 File: ./3_image.jpeg Graphic file (type jpg)
  <use ./3_image.jpeg>
 Package pdftex.def Info: ./3_image.jpeg used on input line 89.
 (pdftex.def)             Requested size: 481.79881pt x 361.34912pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 83--92
+
+ []
+
 
 Underfull \hbox (badness 10000) in paragraph at lines 83--92
 
@@ -625,26 +628,40 @@ LaTeX Info: Redefining \% on input line 92.
  [4 <./3.jpeg>]
 LaTeX Info: Redefining \. on input line 92.
 LaTeX Info: Redefining \% on input line 92.
- [5 <./3_image.jpeg>] (primer_archivo_latex.aux
+ [5 <./3_image.jpeg>] <./4.jpeg, id=33, 722.7pt x 1284.8pt>
+File: ./4.jpeg Graphic file (type jpg)
+ <use ./4.jpeg>
+Package pdftex.def Info: ./4.jpeg used on input line 96.
+(pdftex.def)             Requested size: 180.67455pt x 321.19922pt.
+LaTeX Info: Redefining \. on input line 98.
+LaTeX Info: Redefining \% on input line 98.
+
+[6 <./4.jpeg>] <./5.jpeg, id=37, 722.7pt x 1284.8pt>
+File: ./5.jpeg Graphic file (type jpg)
+ <use ./5.jpeg>
+Package pdftex.def Info: ./5.jpeg used on input line 102.
+(pdftex.def)             Requested size: 180.67455pt x 321.19922pt.
+LaTeX Info: Redefining \. on input line 104.
+LaTeX Info: Redefining \% on input line 104.
+ [7 <./5.jpeg>] (primer_archivo_latex.aux
 LaTeX Info: Redefining \. on input line 6.
 LaTeX Info: Redefining \% on input line 6.
 ) ) 
 Here is how much of TeX's memory you used:
- 3024 strings out of 493333
- 39860 string characters out of 3139185
- 113838 words of memory out of 3000000
- 6505 multiletter control sequences out of 15000+200000
- 9930 words of font info for 34 fonts, out of 3000000 for 9000
+ 3028 strings out of 493333
+ 39902 string characters out of 3139185
+ 113939 words of memory out of 3000000
+ 6509 multiletter control sequences out of 15000+200000
+ 9006 words of font info for 31 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 39i,13n,43p,344b,417s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 39i,13n,43p,344b,415s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/P
-rogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx8.pfb><C:/Program Fi
-les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C:/Program Files/Mi
-KTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/
-fonts/type1/public/amsfonts/cm/cmsl12.pfb>
-Output written on primer_archivo_latex.pdf (5 pages, 827102 bytes).
+rogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C:/Program
+ Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/Mi
+KTeX 2.9/fonts/type1/public/amsfonts/cm/cmsl12.pfb>
+Output written on primer_archivo_latex.pdf (7 pages, 1011633 bytes).
 PDF statistics:
- 50 PDF objects out of 1000 (max. 8388607)
+ 56 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 41 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 51 words of extra memory for PDF output out of 10000 (max. 10000000)
 
